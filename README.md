@@ -8,26 +8,24 @@ This is a simple React project set up with Vite and Vitest for testing. It demon
 
 ## my-vite-app/
 
-## File/Folder               Description              
-├─ src/
+## File/Folder  and  Description              
+### src/
 
-│  ├─ assets/          Static assets (SVG, images, etc.)
+- assets/= Static assets (SVG, images, etc.)
+react.svg
+vite.svg
 
-│  │  ├─ react.svg
+- App.jsx= Main React component
 
-│  │  └─ vite.svg
+- App.test.jsx= Component test file (example)
 
-│  ├─ App.jsx          Main React component
+- main.jsx= Entry point for React + Vite
 
-│  ├─ App.test.jsx     Component test file (example)
+- vite.config.js= Vite configuration file
 
-│  └─ main.jsx         Entry point for React + Vite
+- package.json= Project metadata and scripts
 
-├─ vite.config.js      Vite configuration file
-
-├─ package.json        Project metadata and scripts
-
-└─ package-lock.json   Dependency lockfile
+- package-lock.json= Dependency lockfile
 
 
 
@@ -40,13 +38,13 @@ npm run build	                  Build the production bundle
 npm run preview	                  Preview the production build
 npm test	                      Run all Vitest tests
 
-## Features
+## Features  ✨
 
-- React + Vite setup
-- Hot Module Replacement (HMR)
-- Basic state management with useState
-- Vitest + React Testing Library tests for components
-- Clear and organized project structure
+- ⚡ React + Vite setup
+- 🔥 Hot Module Replacement (HMR)
+- 🧮 Basic state management with useState
+- 🧪 Vitest + React Testing Library tests for components
+- 🗂 Clear and organized project structure
 
 
 ## Dependencies  📦
