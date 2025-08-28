@@ -1,7 +1,7 @@
 import { describe, it, expect } from 'vitest'
 import { render, screen } from '@testing-library/react'
 import App from './App.jsx'
-import '@testing-library/jest-dom' // Adds jest-dom matchers for Vitest
+import '@testing-library/jest-dom'
 
 describe('App component', () => {
   it('renders Vite + React text', () => {
@@ -28,5 +28,6 @@ describe('App component', () => {
     expect(reactLink).toHaveAttribute('href', 'https://react.dev')
   })
 })
+
 
 
