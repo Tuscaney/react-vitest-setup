@@ -7,15 +7,25 @@ This is a simple React project set up with Vite and Vitest for testing. It demon
 ## Project Structure
 
 my-vite-app/
+
 ├─ src/
+
 │  ├─ assets/         # Static assets (SVG, images, etc.)
+
 │  │  ├─ react.svg
+
 │  │  └─ vite.svg
+
 │  ├─ App.jsx         # Main React component
+
 │  ├─ App.test.jsx    # Component test file (example)
+
 │  └─ main.jsx        # Entry point for React + Vite
+
 ├─ vite.config.js     # Vite configuration file
+
 ├─ package.json       # Project metadata and scripts
+
 └─ package-lock.json  # Dependency lockfile
 
 
