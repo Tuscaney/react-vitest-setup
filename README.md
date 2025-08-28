@@ -4,9 +4,7 @@ This is a simple React project set up with Vite and Vitest for testing. It demon
 
 ---
 
-## Project Structure
-
-## my-vite-app/
+## Project Structure.....   my-vite-app/
 
 ## File/Folder  and  Description              
 ### src/
@@ -67,3 +65,9 @@ vite.svg
 - [Vitest Documentation](https://vitest.dev/guide/)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
+
+## Day 3 add ons
+
+- src/dynamo.js — implemented helpers (listAllItems, createItem, getItem, updateItem, deleteItem).
+- src/dynamo.vitest.test.js — five unit tests using aws-sdk-client-mock.
+- Commands to install deps and run tests.
