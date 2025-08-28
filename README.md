@@ -32,11 +32,11 @@ vite.svg
 ---
 
 ## Scripts   🛠
-### Command	                      Description
-npm run dev	                      Start the development server
-npm run build	                  Build the production bundle
-npm run preview	                  Preview the production build
-npm test	                      Run all Vitest tests
+### Command  and  Description
+- npm run dev=  Start the development server
+- npm run build=  Build the production bundle
+- npm run preview=  Preview the production build
+- npm test=  Run all Vitest tests
 
 ## Features  ✨
 
