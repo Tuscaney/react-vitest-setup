@@ -6,33 +6,34 @@ This is a simple React project set up with Vite and Vitest for testing. It demon
 
 ## Project Structure
 
-my-vite-app/
+## my-vite-app/
 
+## File/Folder               Description              
 ├─ src/
 
-│  ├─ assets/         # Static assets (SVG, images, etc.)
+│  ├─ assets/          Static assets (SVG, images, etc.)
 
 │  │  ├─ react.svg
 
 │  │  └─ vite.svg
 
-│  ├─ App.jsx         # Main React component
+│  ├─ App.jsx          Main React component
 
-│  ├─ App.test.jsx    # Component test file (example)
+│  ├─ App.test.jsx     Component test file (example)
 
-│  └─ main.jsx        # Entry point for React + Vite
+│  └─ main.jsx         Entry point for React + Vite
 
-├─ vite.config.js     # Vite configuration file
+├─ vite.config.js      Vite configuration file
 
-├─ package.json       # Project metadata and scripts
+├─ package.json        Project metadata and scripts
 
-└─ package-lock.json  # Dependency lockfile
+└─ package-lock.json   Dependency lockfile
 
 
 
 ---
 
-🛠 ## Scripts
+## Scripts   🛠
 ### Command	                      Description
 npm run dev	                      Start the development server
 npm run build	                  Build the production bundle
@@ -48,14 +49,14 @@ npm test	                      Run all Vitest tests
 - Clear and organized project structure
 
 
-📦 ## Dependencies
+## Dependencies  📦
 
 - React
 - Vite
 - @vitejs/plugin-react
 
 
-🔧 ## Notes
+## Notes  🔧
 
 - This project uses Vite v4.3.9 and @vitejs/plugin-react v4.1.0.
 - Hot Module Replacement (HMR) is enabled out of the box.
