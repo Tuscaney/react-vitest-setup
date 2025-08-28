@@ -23,15 +23,15 @@ my-vite-app/
 
 ## Features
 
--React + Vite setup
--Hot Module Replacement (HMR)
--Basic state management with useState
--Vitest + React Testing Library tests for components
--Clear and organized project structure
+- React + Vite setup
+- Hot Module Replacement (HMR)
+- Basic state management with useState
+- Vitest + React Testing Library tests for components
+- Clear and organized project structure
 
 ## References
 
--Vite Documentation
--React Documentation
--Vitest Documentation
--React Testing Library
+- Vite Documentation
+- React Documentation
+- Vitest Documentation
+- React Testing Library
